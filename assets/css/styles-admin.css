@@ -502,9 +502,16 @@ ul.signin-info-list li i {
     /* padding-left: 1.3rem; */
     margin: 0;
     color: #252525;
+    border-left: 1px solid #f1f1f1;
+    border-right: 1px solid #f1f1f1;
     border-bottom: 1px solid #f1f1f1;
     position: relative;
 }
+
+.nav__list> li:first-child label {
+  border-top: 1px solid #f1f1f1;
+}
+
 .side-nav a:focus, .side-nav a:hover, .side-nav label:focus, .side-nav label:hover {
     color: #004b00;
     text-decoration: none;
