@@ -1,0 +1,2181 @@
+[
+  {
+    "Name": "assurance",
+    "Chapter": "1-1",
+    "Srcs": [
+      "assurance-4.jpg",
+      "assurance-3.jpg",
+      "assurance-2.jpg",
+      "assurance-1.jpg"
+    ],
+    "Sentences": [
+      "He gave me an assurance that it would be ready by Friday.",
+      "They called for assurances that the government is committed to its education policy."
+    ]
+  },
+  {
+    "Name": "casualties",
+    "Chapter": "1-1",
+    "Srcs": [
+      "casualties-3.jpg",
+      "casualties-2.jpg",
+      "casualties-1.png"
+    ],
+    "Sentences": [
+      "The train was derailed but there were no casualties, the police said.",
+      "There were dozens of casualties in the crash."
+    ]
+  },
+  {
+    "Name": "cease-fire",
+    "Chapter": "1-1",
+    "Srcs": [
+      "cease-fire-1.png"
+    ],
+    "Sentences": [
+      "Both sides observed the cease-fire.",
+      "They have agreed to a cease-fire after three years of conflict."
+    ]
+  },
+  {
+    "Name": "compensation",
+    "Chapter": "1-1",
+    "Srcs": [
+      "compensation-2.jpg",
+      "compensation-1.jpg"
+    ],
+    "Sentences": [
+      "She received compensation from the government for the damage.",
+      "Did you get any compensation when you were dismissed from your job?"
+    ]
+  },
+  {
+    "Name": "death toll",
+    "Chapter": "1-1",
+    "Srcs": [
+      "death toll-1.jpg"
+    ],
+    "Sentences": [
+      "The death toll has risen to 200.",
+      "The death toll continues to rise from yesterday’s earthquake."
+    ]
+  },
+  {
+    "Name": "dialogue",
+    "Chapter": "1-1",
+    "Srcs": [
+      "dialogue-3.png",
+      "dialogue-2.png",
+      "dialogue-1.jpg"
+    ],
+    "Sentences": [
+      "There is a need for constructive dialogue between leaders.",
+      "The stubborn mayor finally consented to a dialogue with the strike leaders."
+    ]
+  },
+  {
+    "Name": "evacuate",
+    "Chapter": "1-1",
+    "Srcs": [
+      "evacuate-1.jpg"
+    ],
+    "Sentences": [
+      "Several families were evacuated from their homes.",
+      "The police evacuated the village shortly before the explosion."
+    ]
+  },
+  {
+    "Name": "hostility",
+    "Chapter": "1-1",
+    "Srcs": [
+      "hostility-3.png",
+      "hostility-2.jpg",
+      "hostility-1.jpg"
+    ],
+    "Sentences": [
+      "There was open hostility between the two schools.",
+      "We had no hostility toward the new neighbor."
+    ]
+  },
+  {
+    "Name": "identify",
+    "Chapter": "1-1",
+    "Srcs": [
+      "identify-2.jpg",
+      "identify-1.jpg"
+    ],
+    "Sentences": [
+      "The police took fingerprints and identified the body.",
+      "I cannot identify this signature."
+    ]
+  },
+  {
+    "Name": "negotiation",
+    "Chapter": "1-1",
+    "Srcs": [
+      "negotiation-1.jpg"
+    ],
+    "Sentences": [
+      "The negotiations with the company had reached a crucial stage.",
+      "Peace negotiations are still going on."
+    ]
+  },
+  {
+    "Name": "obstacle",
+    "Chapter": "1-1",
+    "Srcs": [
+      "obstacle-1.jpg"
+    ],
+    "Sentences": [
+      "Fear of change is an obstacle to progress.",
+      "There are formidable obstacles on the road to peace."
+    ]
+  },
+  {
+    "Name": "relief effort",
+    "Chapter": "1-1",
+    "Srcs": [
+      "relief effort-3.png",
+      "relief effort-2.png",
+      "relief effort-1.png"
+    ],
+    "Sentences": [
+      "The relief effort was made to those in the flood-hit areas.",
+      "Many governments and charities all contributed to the relief effort."
+    ]
+  },
+  {
+    "Name": "rescue operation",
+    "Chapter": "1-1",
+    "Srcs": [
+      "rescue operation-1.png"
+    ],
+    "Sentences": [
+      "The rescue operation lasted three days.",
+      "The rescue operation proved successful."
+    ]
+  },
+  {
+    "Name": "sanction",
+    "Chapter": "1-1",
+    "Srcs": [
+      "sanction-1.jpg"
+    ],
+    "Sentences": [
+      "Many nations have imposed sanctions on the country because of its attacks on its own people.",
+      "The UN imposed economic sanctions against Iraq."
+    ]
+  },
+  {
+    "Name": "sniper",
+    "Chapter": "1-1",
+    "Srcs": [
+      "sniper-1.jpg"
+    ],
+    "Sentences": [
+      "Two soldiers were shot by snipers.",
+      "He was shot and fatally injured by a sniper."
+    ]
+  },
+  {
+    "Name": "stab",
+    "Chapter": "1-1",
+    "Srcs": [
+      "stab-1.png"
+    ],
+    "Sentences": [
+      "He was stabbed to death in a fight.",
+      "The man was stabbed to death in his office."
+    ]
+  },
+  {
+    "Name": "arson",
+    "Chapter": "1-2",
+    "Srcs": [
+      "arson-2.jpg",
+      "arson-1.png"
+    ],
+    "Sentences": [
+      "He was arrested on the charge of arson one year ago.",
+      "The school was destroyed in an arson attack."
+    ]
+  },
+  {
+    "Name": "avalanche",
+    "Chapter": "1-2",
+    "Srcs": [
+      "avalanche-1.jpg"
+    ],
+    "Sentences": [
+      "He was killed in an avalanche while skiing.",
+      "We received an avalanche of letters in reply to our advertisement."
+    ]
+  },
+  {
+    "Name": "blackout",
+    "Chapter": "1-2",
+    "Srcs": [
+      "blackout-4.png",
+      "blackout-3.png",
+      "blackout-2.jpg",
+      "blackout-1.jpg"
+    ],
+    "Sentences": [
+      "Power lines were blown down and we had a blackout of several hours.",
+      "I was trapped inside an elevator during the blackout."
+    ]
+  },
+  {
+    "Name": "blaze",
+    "Chapter": "1-2",
+    "Srcs": [
+      "blaze-7.png",
+      "blaze-6.jpg",
+      "blaze-5.jpg",
+      "blaze-4.png",
+      "blaze-3.jpg",
+      "blaze-2.jpg",
+      "blaze-1.png"
+    ],
+    "Sentences": [
+      "Firefighters took two hours to control the blaze.",
+      "Several houses had been burnt to the ground before the blaze was put out."
+    ]
+  },
+  {
+    "Name": "buried alive",
+    "Chapter": "1-2",
+    "Srcs": [
+      "buried alive-2.png",
+      "buried alive-1.jpg"
+    ],
+    "Sentences": [
+      "The miners were buried alive when the tunnel collapsed.",
+      "If an avalanche strikes, skiers can be buried alive by snow."
+    ]
+  },
+  {
+    "Name": "chemical leak",
+    "Chapter": "1-2",
+    "Srcs": [
+      "chemical leak-2.jpg",
+      "chemical leak-1.png"
+    ],
+    "Sentences": [
+      "Each year, there are millions of tons of toxic chemicals released into the atmosphere from chemical leaks.",
+      "In the laboratory, everyone pays attention to safety to avoid chemical leaks."
+    ]
+  },
+  {
+    "Name": "collapse",
+    "Chapter": "1-2",
+    "Srcs": [
+      "collapse-4.jpg",
+      "collapse-3.jpg",
+      "collapse-2.png",
+      "collapse-1.jpg"
+    ],
+    "Sentences": [
+      "The collapse of the building caused no casualties.",
+      "Thousands of buildings collapsed in the earthquake."
+    ]
+  },
+  {
+    "Name": "drought",
+    "Chapter": "1-2",
+    "Srcs": [
+      "drought-1.jpg"
+    ],
+    "Sentences": [
+      "This year severe drought has ruined the crops.",
+      "The crops died during the drought."
+    ]
+  },
+  {
+    "Name": "drown",
+    "Chapter": "1-2",
+    "Srcs": [
+      "drown-1.jpg"
+    ],
+    "Sentences": [
+      "A child can drown in only a few inches of water.",
+      "Many people drowned when the boat overturned."
+    ]
+  },
+  {
+    "Name": "roaring inferno",
+    "Chapter": "1-2",
+    "Srcs": [
+      "roaring inferno-1.jpg"
+    ],
+    "Sentences": [
+      "Before the last of the crew left, they lifted the hatches and the ship immediately burst into a roaring inferno.",
+      "Within minutes the house had become a roaring inferno."
+    ]
+  },
+  {
+    "Name": "rockslide",
+    "Chapter": "1-2",
+    "Srcs": [
+      "rockslide-1.jpg"
+    ],
+    "Sentences": [
+      "The rockslide cut off the valley from the rest of the world.",
+      "The hills above the valley are bare because many years of rockslides."
+    ]
+  },
+  {
+    "Name": "rubble",
+    "Chapter": "1-2",
+    "Srcs": [
+      "rubble-1.jpg"
+    ],
+    "Sentences": [
+      "The bomb reduced the houses to rubble.",
+      "Thousands of bodies are still buried under the rubble."
+    ]
+  },
+  {
+    "Name": "survivor",
+    "Chapter": "1-2",
+    "Srcs": [
+      "survivor-1.png"
+    ],
+    "Sentences": [
+      "There was only one survivor from the plane crash.",
+      "Emergency help is needed for survivors of the earthquake."
+    ]
+  },
+  {
+    "Name": "volcano",
+    "Chapter": "1-2",
+    "Srcs": [
+      "volcano-1.jpg"
+    ],
+    "Sentences": [
+      "An active volcano may erupt at any time.",
+      "The village was destroyed when the volcano erupted."
+    ]
+  },
+  {
+    "Name": "wanted criminal",
+    "Chapter": "1-2",
+    "Srcs": [
+      "wanted criminal-1.jpg"
+    ],
+    "Sentences": [
+      "The man who is sitting there and drinking beer is a wanted criminal.",
+      "The wanted criminal is wanted for the murder of a teenage girl."
+    ]
+  },
+  {
+    "Name": "wreckage",
+    "Chapter": "1-2",
+    "Srcs": [
+      "wreckage-2.jpg",
+      "wreckage-1.jpg"
+    ],
+    "Sentences": [
+      "Experts arrived to examine the wreckage of the airplane.",
+      "A few survivors were pulled from the wreckage."
+    ]
+  },
+  {
+    "Name": "astronaut",
+    "Chapter": "2-1",
+    "Srcs": [
+      "astronaut-2.jpg",
+      "astronaut-1.jpg"
+    ],
+    "Sentences": [
+      "Neil Armstrong is the first astronaut to walk on the moon.",
+      "Do you know how an astronaut flies in a spacecraft?"
+    ]
+  },
+  {
+    "Name": "broadband",
+    "Chapter": "2-1",
+    "Srcs": [
+      "broadband-2.png",
+      "broadband-1.png"
+    ],
+    "Sentences": [
+      "We have broadband at home now.",
+      "Internet connection via broadband offers many advantages."
+    ]
+  },
+  {
+    "Name": "clone",
+    "Chapter": "2-1",
+    "Srcs": [
+      "clone-1.jpg"
+    ],
+    "Sentences": [
+      "Scientists have already cloned a sheep.",
+      "A team from the U.K. was the first to successfully clone an animal."
+    ]
+  },
+  {
+    "Name": "comet",
+    "Chapter": "2-1",
+    "Srcs": [
+      "comet-1.jpg"
+    ],
+    "Sentences": [
+      "We can see comets only when they come close to the earth.",
+      "Comets were once believed to be omens, and their appearances in the sky were greatly feared or welcomed."
+    ]
+  },
+  {
+    "Name": "compatible",
+    "Chapter": "2-1",
+    "Srcs": [
+      "compatible-1.jpg"
+    ],
+    "Sentences": [
+      "This software may not be compatible with older operating systems.",
+      "The new system will be compatible with existing equipment."
+    ]
+  },
+  {
+    "Name": "copyright",
+    "Chapter": "2-1",
+    "Srcs": [
+      "copyright-3.png",
+      "copyright-2.jpg",
+      "copyright-1.jpg"
+    ],
+    "Sentences": [
+      "Who owns the copyright of this book?",
+      "The copyright expires 50 years after the death of the author."
+    ]
+  },
+  {
+    "Name": "cyber attack",
+    "Chapter": "2-1",
+    "Srcs": [
+      "cyber attack-2.jpg",
+      "cyber attack-1.jpg"
+    ],
+    "Sentences": [
+      "I can’t say for certain that the cyber attacks were discovered by the FBI.",
+      "The use of anti-virus software can help you avoid cyber attack."
+    ]
+  },
+  {
+    "Name": "fiber optic cable",
+    "Chapter": "2-1",
+    "Srcs": [
+      "fiber optic cable-3.jpg",
+      "fiber optic cable-2.jpg"
+    ],
+    "Sentences": [
+      "The procedure for stripping fiber optic cables is very similar to electronic cables.",
+      "The use of fiber optics has served to increase the volume and speed of data transmission."
+    ]
+  },
+  {
+    "Name": "hacker",
+    "Chapter": "2-1",
+    "Srcs": [
+      "hacker-2.jpg",
+      "hacker-1.jpg"
+    ],
+    "Sentences": [
+      "Many Hackers believe that they are doing the right thing by exploiting server weaknesses.",
+      "A hacker had managed to get into the system."
+    ]
+  },
+  {
+    "Name": "meteor shower",
+    "Chapter": "2-1",
+    "Srcs": [
+      "meteor shower-2.jpg",
+      "meteor shower-1.jpg"
+    ],
+    "Sentences": [
+      "A meteor shower is the result of an interaction between planets.",
+      "Astronomers track large meteors with radar."
+    ]
+  },
+  {
+    "Name": "modem",
+    "Chapter": "2-1",
+    "Srcs": [
+      "modem-2.gif",
+      "modem-1.jpg"
+    ],
+    "Sentences": [
+      "Modern modems have a few different stored profiles.",
+      "Modems send data by converting it into audio signals and receive it by converting audio signals back into digital form."
+    ]
+  },
+  {
+    "Name": "processor",
+    "Chapter": "2-1",
+    "Srcs": [
+      "processor-2.png",
+      "processor-1.jpg"
+    ],
+    "Sentences": [
+      "He is a claims processor at an insurance company.",
+      "Most reports are produced on a word processor."
+    ]
+  },
+  {
+    "Name": "satellite",
+    "Chapter": "2-1",
+    "Srcs": [
+      "satellite-2.jpg",
+      "satellite-1.jpg"
+    ],
+    "Sentences": [
+      "The number of known satellites in the solar system rose to 32.",
+      "This broadcast comes live via satellite from New York."
+    ]
+  },
+  {
+    "Name": "solar system",
+    "Chapter": "2-1",
+    "Srcs": [
+      "solar system-1.png"
+    ],
+    "Sentences": [
+      "The solar system was formed 4.5 billion years ago.",
+      "We don’t know how many solar systems there are in each galaxy."
+    ]
+  },
+  {
+    "Name": "space shuttle",
+    "Chapter": "2-1",
+    "Srcs": [
+      "space shuttle-1.jpg"
+    ],
+    "Sentences": [
+      "The U.S. government is working on building a new generation of space shuttles.",
+      "A space shuttle is one kind of vehicle that can carry astronauts for outer space trips."
+    ]
+  },
+  {
+    "Name": "surf the net",
+    "Chapter": "2-1",
+    "Srcs": [
+      "surf the net-1.jpg"
+    ],
+    "Sentences": [
+      "I was surfing the net looking for information on Indian music.",
+      "Bruce spends most evenings surfing the Net."
+    ]
+  },
+  {
+    "Name": "aging",
+    "Chapter": "2-2",
+    "Srcs": [
+      "aging-2.png",
+      "aging-1.jpg"
+    ],
+    "Sentences": [
+      "Memory loss is often a part of aging.",
+      "Poor health is not an inevitable consequence of aging."
+    ]
+  },
+  {
+    "Name": "alcoholic",
+    "Chapter": "2-2",
+    "Srcs": [
+      "alcoholic-2.jpg",
+      "alcoholic-1.jpg"
+    ],
+    "Sentences": [
+      "She has had enough of her alcoholic husband.",
+      "The guests left in an alcoholic haze."
+    ]
+  },
+  {
+    "Name": "allergy",
+    "Chapter": "2-2",
+    "Srcs": [
+      "allergy-2.jpg",
+      "allergy-1.jpg"
+    ],
+    "Sentences": [
+      "I have an allergy to cats.",
+      "The rash on her face is caused by an allergy to grass."
+    ]
+  },
+  {
+    "Name": "blood transfusion",
+    "Chapter": "2-2",
+    "Srcs": [
+      "blood transfusion-2.gif",
+      "blood transfusion-1.jpg"
+    ],
+    "Sentences": [
+      "He was given a blood transfusion.",
+      "A blood transfusion saved his life."
+    ]
+  },
+  {
+    "Name": "depression",
+    "Chapter": "2-2",
+    "Srcs": [
+      "depression-4.jpg",
+      "depression-3.jpg",
+      "depression-2.jpg",
+      "depression-1.jpg"
+    ],
+    "Sentences": [
+      "He committed suicide during a fit of depression.",
+      "The trip to the seashore brought her out of her depression."
+    ]
+  },
+  {
+    "Name": "diagnose",
+    "Chapter": "2-2",
+    "Srcs": [
+      "diagnose-3.jpg",
+      "diagnose-2.jpg",
+      "diagnose-1.jpg"
+    ],
+    "Sentences": [
+      "She was diagnosed with breast cancer.",
+      "The two doctors made different diagnoses of my disease."
+    ]
+  },
+  {
+    "Name": "drug addiction",
+    "Chapter": "2-2",
+    "Srcs": [
+      "drug addiction-1.jpg"
+    ],
+    "Sentences": [
+      "He admitted that his drug addiction had led him in trouble with the law.",
+      "She helped him fight his drug addiction.",
+      "Drug addiction is widely considered a pathological state."
+    ]
+  },
+  {
+    "Name": "hygiene",
+    "Chapter": "2-2",
+    "Srcs": [
+      "hygiene-2.jpg",
+      "hygiene-1.jpg"
+    ],
+    "Sentences": [
+      "The Consumers' Association blames poor hygiene standards.",
+      "Poor standards of hygiene mean that the disease spreads fast."
+    ]
+  },
+  {
+    "Name": "prescription",
+    "Chapter": "2-2",
+    "Srcs": [
+      "prescription-5.jpg",
+      "prescription-4.jpg",
+      "prescription-3.png",
+      "prescription-2.jpg",
+      "prescription-1.jpg"
+    ],
+    "Sentences": [
+      "The doctor gave me a prescription for pain-killers.",
+      "Prescribing drugs is doctor’s responsibility."
+    ]
+  },
+  {
+    "Name": "radiation",
+    "Chapter": "2-2",
+    "Srcs": [
+      "radiation-1.jpg"
+    ],
+    "Sentences": [
+      "An accident at the power station could result in large amounts of radiation being released.",
+      "There was a radiation leak from a nuclear power station."
+    ]
+  },
+  {
+    "Name": "stress",
+    "Chapter": "2-2",
+    "Srcs": [
+      "stress-2.png",
+      "stress-1.jpg"
+    ],
+    "Sentences": [
+      "Your headaches are due to stress.",
+      "Janet has been under a lot of stress since her mother's illness."
+    ]
+  },
+  {
+    "Name": "vaccination",
+    "Chapter": "2-2",
+    "Srcs": [
+      "vaccination-2.jpg",
+      "vaccination-1.jpg"
+    ],
+    "Sentences": [
+      "Parents were too frightened to bring their children for vaccination.",
+      "Anyone who wants to avoid the flu should consider getting a vaccination."
+    ]
+  },
+  {
+    "Name": "antibiotic",
+    "Chapter": "3-1",
+    "Srcs": [
+      "antibiotic-1.png"
+    ],
+    "Sentences": [
+      "The doctor put her on antibiotics.",
+      "I'm taking antibiotics for a throat infection."
+    ]
+  },
+  {
+    "Name": "bacteria",
+    "Chapter": "3-1",
+    "Srcs": [
+      "bacteria-2.jpg",
+      "bacteria-1.jpg"
+    ],
+    "Sentences": [
+      "It is important to keep a clean house free from bacteria.",
+      "Some bacteria are beneficial to humans, and some are harmful."
+    ]
+  },
+  {
+    "Name": "blizzard",
+    "Chapter": "3-1",
+    "Srcs": [
+      "blizzard-2.gif",
+      "blizzard-1.jpg"
+    ],
+    "Sentences": [
+      "We once got stuck in a blizzard for six hours.",
+      "The blizzard struck the north-east yesterday, causing serious damage."
+    ]
+  },
+  {
+    "Name": "chemotherapy",
+    "Chapter": "3-1",
+    "Srcs": [
+      "chemotherapy-1.png"
+    ],
+    "Sentences": [
+      "Chemotherapy is often used in the treatment of cancer.",
+      "The second part of the trial compared chemotherapy and radiotherapy."
+    ]
+  },
+  {
+    "Name": "diabetes",
+    "Chapter": "3-1",
+    "Srcs": [
+      "diabetes-2.jpg",
+      "diabetes-1.jpg"
+    ],
+    "Sentences": [
+      "Every day, a person with diabetes needs to test their blood sugar level.",
+      "The patient has had diabetes for 8 years."
+    ]
+  },
+  {
+    "Name": "electrocute",
+    "Chapter": "3-1",
+    "Srcs": [
+      "electrocute-2.jpg",
+      "electrocute-1.png"
+    ],
+    "Sentences": [
+      "Last week a housewife was electrocuted by her washing machine.",
+      "He was electrocuted when he touched the bare wires."
+    ]
+  },
+  {
+    "Name": "hailstone",
+    "Chapter": "3-1",
+    "Srcs": [
+      "hailstone-2.png",
+      "hailstone-1.jpg"
+    ],
+    "Sentences": [
+      "The hailstone is a storm with biggest golf balls.",
+      "My car's windshield was shattered by a large hailstone."
+    ]
+  },
+  {
+    "Name": "heat wave",
+    "Chapter": "3-1",
+    "Srcs": [
+      "heat wave-1.png"
+    ],
+    "Sentences": [
+      "At the heat wave it is best to stay indoors as much as possible.",
+      "The heat wave killed five people in Spain last summer."
+    ]
+  },
+  {
+    "Name": "hurricane",
+    "Chapter": "3-1",
+    "Srcs": [
+      "hurricane-1.jpg"
+    ],
+    "Sentences": [
+      "Hurricane Betty is now approaching the coast of Florida.",
+      "A hurricane is expected this weekend."
+    ]
+  },
+  {
+    "Name": "infection",
+    "Chapter": "3-1",
+    "Srcs": [
+      "infection-2.png",
+      "infection-1.gif"
+    ],
+    "Sentences": [
+      "Always sterilize the needle to prevent infection.",
+      "Bandage the wound to reduce the risk of infection."
+    ]
+  },
+  {
+    "Name": "influenza",
+    "Chapter": "3-1",
+    "Srcs": [
+      "influenza-1.png"
+    ],
+    "Sentences": [
+      "Since ancient times, influenza has periodically swept the world.",
+      "Influenza is an acute viral infection that spreads easily from person to person."
+    ]
+  },
+  {
+    "Name": "monsoon",
+    "Chapter": "3-1",
+    "Srcs": [
+      "monsoon-2.png",
+      "monsoon-1.png"
+    ],
+    "Sentences": [
+      "The failure of the monsoon would destroy harvests which one hundred million people rely on.",
+      "The monsoon season is the season in Southern Asia when there is a lot of very heavy rain."
+    ]
+  },
+  {
+    "Name": "sleet",
+    "Chapter": "3-1",
+    "Srcs": [
+      "sleet-3.gif",
+      "sleet-2.gif",
+      "sleet-1.png"
+    ],
+    "Sentences": [
+      "Driving snow and sleet brought more problems to the county's roads last night.",
+      "The sleet was so hard, we could see for 30 yards."
+    ]
+  },
+  {
+    "Name": "stroke",
+    "Chapter": "3-1",
+    "Srcs": [
+      "stroke-8.jpg",
+      "stroke-7.png",
+      "stroke-6.jpg",
+      "stroke-5.jpg",
+      "stroke-4.jpg",
+      "stroke-3.jpg",
+      "stroke-1.png",
+      "stroke-03.gif",
+      "stroke-02.gif",
+      "stroke-01.png"
+    ],
+    "Sentences": [
+      "She died following a massive stroke.",
+      "The stroke left him partly paralyzed."
+    ]
+  },
+  {
+    "Name": "tornado",
+    "Chapter": "3-1",
+    "Srcs": [
+      "tornado-1.jpg"
+    ],
+    "Sentences": [
+      "Tornadoes ripped into the southern United States yesterday.",
+      "The tornado left the town in chaos."
+    ]
+  },
+  {
+    "Name": "typhoon",
+    "Chapter": "3-1",
+    "Srcs": [
+      "typhoon-1.jpg"
+    ],
+    "Sentences": [
+      "A typhoon in 1954 sank a ferry, drowning 1,218 people.",
+      "In the months before our visit, Taiwan was hit by a few typhoons and a lot of people were killed."
+    ]
+  },
+  {
+    "Name": "acupuncture",
+    "Chapter": "3-2",
+    "Srcs": [
+      "acupuncture-1.png"
+    ],
+    "Sentences": [
+      "Acupuncture originated in China.",
+      "Acupuncture is so affective, many western doctors also practise it."
+    ]
+  },
+  {
+    "Name": "Caesarean delivery",
+    "Chapter": "3-2",
+    "Srcs": [
+      "Caesarean delivery-1.png"
+    ],
+    "Sentences": [
+      "I had to have a Caesarean delivery.",
+      "The baby was born by Caesarean section."
+    ]
+  },
+  {
+    "Name": "calcium",
+    "Chapter": "3-2",
+    "Srcs": [
+      "calcium-2.png",
+      "calcium-1.jpg"
+    ],
+    "Sentences": [
+      "They contain a form of calcium that is easily absorbed by the body.",
+      "Calcium is the most abundant mineral in the body."
+    ]
+  },
+  {
+    "Name": "complication",
+    "Chapter": "3-2",
+    "Srcs": [
+      "complication-2.jpg",
+      "complication-1.jpg"
+    ],
+    "Sentences": [
+      "Pneumonia is one of the common complications faced by bed-ridden patients.",
+      "The fact that the plane was late added a further complication to our journey."
+    ]
+  },
+  {
+    "Name": "diet regime",
+    "Chapter": "3-2",
+    "Srcs": [
+      "diet regime-1.jpg"
+    ],
+    "Sentences": [
+      "The children seem to exist on a diet regime of burgers and chips.",
+      "A doctor put him on a strict diet regime."
+    ]
+  },
+  {
+    "Name": "heart attack",
+    "Chapter": "3-2",
+    "Srcs": [
+      "heart attack-1.jpg"
+    ],
+    "Sentences": [
+      "To identify the body almost gave him a heart attack.",
+      "John had a heart attack three years ago."
+    ]
+  },
+  {
+    "Name": "ice shower",
+    "Chapter": "3-2",
+    "Srcs": [
+      "ice shower-1.jpg"
+    ],
+    "Sentences": [
+      "Because of the ice showers the schools were closed.",
+      "Tomorrow there will be a few scattered ice showers."
+    ]
+  },
+  {
+    "Name": "meditation",
+    "Chapter": "3-2",
+    "Srcs": [
+      "meditation-1.jpg"
+    ],
+    "Sentences": [
+      "Yoga involves breathing exercises, stretching, and meditation.",
+      "Sophie meditates for 20 minutes every day."
+    ]
+  },
+  {
+    "Name": "Pile up",
+    "Chapter": "3-2",
+    "Srcs": [
+      "Pile up-3.png",
+      "Pile up-2.jpg",
+      "Pile up-1.png"
+    ],
+    "Sentences": [
+      "Don't wait for the garbage to pile up before taking it out.",
+      "Three people died in a multiple pile-up in freezing fog."
+    ]
+  },
+  {
+    "Name": "side effects",
+    "Chapter": "3-2",
+    "Srcs": [
+      "side effects-2.jpg",
+      "side effects-1.png"
+    ],
+    "Sentences": [
+      "Does this drug have any side effects?",
+      "A natural remedy with no harmful side effects is always better."
+    ]
+  },
+  {
+    "Name": "train derailment",
+    "Chapter": "3-2",
+    "Srcs": [
+      "train derailment-1.png"
+    ],
+    "Sentences": [
+      "The train derailed and plunged into the river.",
+      "The news of the train derailment came as a shock."
+    ]
+  },
+  {
+    "Name": "visibility",
+    "Chapter": "3-2",
+    "Srcs": [
+      "visibility-2.png",
+      "visibility-1.png"
+    ],
+    "Sentences": [
+      "Visibility on the roads is down to 20 meters due to heavy fog.",
+      "The search for survivors was abandoned because of poor visibility."
+    ]
+  },
+  {
+    "Name": "bail",
+    "Chapter": "4-1",
+    "Srcs": [
+      "bail-5.png",
+      "bail-4.png",
+      "bail-3.png",
+      "bail-2.gif",
+      "bail-1.png"
+    ],
+    "Sentences": [
+      "Mr. Carpenter is free on bail while he appeals his conviction.",
+      "She was murdered by a man who was out on bail for rape."
+    ]
+  },
+  {
+    "Name": "confess",
+    "Chapter": "4-1",
+    "Srcs": [
+      "confess-3.png",
+      "confess-2.jpg",
+      "confess-1.jpg"
+    ],
+    "Sentences": [
+      "After hours of questioning, the suspect confessed.",
+      "Occasionally people confess to crimes they haven't committed just to get attention."
+    ]
+  },
+  {
+    "Name": "convict",
+    "Chapter": "4-1",
+    "Srcs": [
+      "convict-3.png",
+      "convict-2.jpg",
+      "convict-1.png"
+    ],
+    "Sentences": [
+      "The convicts complained bitterly about prison conditions.",
+      "There wasn’t enough evidence to convict her."
+    ]
+  },
+  {
+    "Name": "demonstration",
+    "Chapter": "4-1",
+    "Srcs": [
+      "demonstration-3.png",
+      "demonstration-2.png",
+      "demonstration-1.png"
+    ],
+    "Sentences": [
+      "Police opened fire on a peaceful demonstration.",
+      "The proposals sparked mass demonstrations."
+    ]
+  },
+  {
+    "Name": "execution",
+    "Chapter": "4-1",
+    "Srcs": [
+      "execution-5.jpg",
+      "execution-4.png",
+      "execution-3.png",
+      "execution-2.png",
+      "execution-1.jpg"
+    ],
+    "Sentences": [
+      "The killer was executed for murder last week.",
+      "Execution is still the penalty in some states for murder."
+    ]
+  },
+  {
+    "Name": "indict",
+    "Chapter": "4-1",
+    "Srcs": [
+      "indict-1.jpg"
+    ],
+    "Sentences": [
+      "He was indicted for vehicular homicide in 1987.",
+      "The jury indicted all eleven men named by the FBI."
+    ]
+  },
+  {
+    "Name": "injured",
+    "Chapter": "4-1",
+    "Srcs": [
+      "injured-1.jpg"
+    ],
+    "Sentences": [
+      "The other injured man had a superficial stomach wound.",
+      "Army helicopters tried to evacuate the injured."
+    ]
+  },
+  {
+    "Name": "innocent",
+    "Chapter": "4-1",
+    "Srcs": [
+      "innocent-3.png",
+      "innocent-2.png",
+      "innocent-1.jpg"
+    ],
+    "Sentences": [
+      "He firmly believes that she is innocent of the crime.",
+      "She has such an innocent face that I found it hard to believe there was anything bad of her."
+    ]
+  },
+  {
+    "Name": "investigation",
+    "Chapter": "4-1",
+    "Srcs": [
+      "investigation-2.jpg",
+      "investigation-1.jpg"
+    ],
+    "Sentences": [
+      "He ordered an investigation into the affair.",
+      "An investigation has been under way for several days into the disappearance of a thirteen-year-old boy.",
+      ""
+    ]
+  },
+  {
+    "Name": "ongoing",
+    "Chapter": "4-1",
+    "Srcs": [
+      "ongoing-3.jpg",
+      "ongoing-2.jpg",
+      "ongoing-1.jpg"
+    ],
+    "Sentences": [
+      "Training is part of our ongoing career development program.",
+      "Their ongoing search for a new director is useful."
+    ]
+  },
+  {
+    "Name": "parole",
+    "Chapter": "4-1",
+    "Srcs": [
+      "parole-2.jpg",
+      "parole-1.png"
+    ],
+    "Sentences": [
+      "Prisoners are entitled to apply for parole.",
+      "He's been released on parole."
+    ]
+  },
+  {
+    "Name": "plead guilty",
+    "Chapter": "4-1",
+    "Srcs": [
+      "plead guilty-3.png",
+      "plead guilty-2.png",
+      "plead guilty-1.jpg",
+      "plead guilty-0.jpg"
+    ],
+    "Sentences": [
+      "The defendant pleaded not guilty to robbery and assault.",
+      "He has not done anything illegal, why should he plead guilty?"
+    ]
+  },
+  {
+    "Name": "protest",
+    "Chapter": "4-1",
+    "Srcs": [
+      "protest-1.jpg"
+    ],
+    "Sentences": [
+      "Thousands of people blocked the street protesting against the new legislation.",
+      "They are protesting against the new law."
+    ]
+  },
+  {
+    "Name": "sentence",
+    "Chapter": "4-1",
+    "Srcs": [
+      "sentence-2.png",
+      "sentence-1.png"
+    ],
+    "Sentences": [
+      "His voice dropped at the end of the sentence.",
+      "The sentence was ten years in prison."
+    ]
+  },
+  {
+    "Name": "verdict",
+    "Chapter": "4-1",
+    "Srcs": [
+      "verdict-2.jpg",
+      "verdict-1.png"
+    ],
+    "Sentences": [
+      "The jury has retired to consider its verdict.",
+      "After a week, the jury had still not reached a verdict."
+    ]
+  },
+  {
+    "Name": "wounded",
+    "Chapter": "4-1",
+    "Srcs": [
+      "wounded-2.jpg",
+      "wounded-1.jpg"
+    ],
+    "Sentences": [
+      "There were 79 killed and 230 wounded.",
+      "It was only wounded pride that stopped him from apologizing."
+    ]
+  },
+  {
+    "Name": "arrest",
+    "Chapter": "4-2",
+    "Srcs": [
+      "arrest-1.jpg"
+    ],
+    "Sentences": [
+      "Police arrested five young men in connection with one of the attacks.",
+      "He was arrested when customs officers found drugs in his bag."
+    ]
+  },
+  {
+    "Name": "autopsy",
+    "Chapter": "4-2",
+    "Srcs": [
+      "autopsy-2.jpg",
+      "autopsy-1.png"
+    ],
+    "Sentences": [
+      "The doctor had the grim task of carrying out an autopsy on his friend.",
+      "The body arrived for autopsy at the Dallas hospital."
+    ]
+  },
+  {
+    "Name": "bomb squad",
+    "Chapter": "4-2",
+    "Srcs": [
+      "bomb squad-1.jpg"
+    ],
+    "Sentences": [
+      "The building was evacuated and the bomb squad called.",
+      "An army bomb squad arrived and defused the bomb."
+    ]
+  },
+  {
+    "Name": "coroner",
+    "Chapter": "4-2",
+    "Srcs": [
+      "coroner-1.jpg"
+    ],
+    "Sentences": [
+      "The coroner's verdict was that it was an accidental death.",
+      "My father is a famous coroner in Taiwan."
+    ]
+  },
+  {
+    "Name": "custody",
+    "Chapter": "4-2",
+    "Srcs": [
+      "custody-2.jpg",
+      "custody-1.jpg"
+    ],
+    "Sentences": [
+      "Three people appeared in court and two of them were remanded in custody.",
+      "A man is being held in custody in connection with the murder."
+    ]
+  },
+  {
+    "Name": "drug dealing",
+    "Chapter": "4-2",
+    "Srcs": [
+      "drug dealing-1.jpg"
+    ],
+    "Sentences": [
+      "In Indonesia, if you are caught drug dealing or trafficking you will be executed by firing squad.",
+      "Many inner city youths in America resort to drug dealing as a means to make money."
+    ]
+  },
+  {
+    "Name": "foul-play",
+    "Chapter": "4-2",
+    "Srcs": [
+      "foul-play-5.png",
+      "foul-play-4.jpg",
+      "foul-play-3.png",
+      "foul-play-2.jpg",
+      "foul-play-1.jpg"
+    ],
+    "Sentences": [
+      "The report says it suspects foul play was involved in the deaths of two journalists.",
+      "Players were warned twice for foul play."
+    ]
+  },
+  {
+    "Name": "interrogate",
+    "Chapter": "4-2",
+    "Srcs": [
+      "interrogate-1.jpg"
+    ],
+    "Sentences": [
+      "Thousands of dissidents have been interrogated or imprisoned in recent weeks.",
+      "The police interrogated the suspect for several hours."
+    ]
+  },
+  {
+    "Name": "manhunt",
+    "Chapter": "4-2",
+    "Srcs": [
+      "manhunt-1.jpg"
+    ],
+    "Sentences": [
+      "Police have launched a nationwide manhunt.",
+      "The detective’s heading a manhunt for the sniper."
+    ]
+  },
+  {
+    "Name": "morgue",
+    "Chapter": "4-2",
+    "Srcs": [
+      "morgue-1.jpg"
+    ],
+    "Sentences": [
+      "Nobody wants to stay in a morgue for a whole day.",
+      "Polish woman woke up in a morgue after being declared dead by her doctor."
+    ]
+  },
+  {
+    "Name": "ransom",
+    "Chapter": "4-2",
+    "Srcs": [
+      "ransom-3.jpg",
+      "ransom-2.png",
+      "ransom-1.png"
+    ],
+    "Sentences": [
+      "Her kidnapper successfully extorted a 250,000 ransom for her release.",
+      "They demanded a huge ransom for the return of the little girl whom they had kidnapped."
+    ]
+  },
+  {
+    "Name": "rapist",
+    "Chapter": "4-2",
+    "Srcs": [
+      "rapist-1.jpg"
+    ],
+    "Sentences": [
+      "The convicted murderer and rapist are scheduled to be executed next Friday.",
+      "The police have caught the rapist."
+    ]
+  },
+  {
+    "Name": "sharpshooter",
+    "Chapter": "4-2",
+    "Srcs": [
+      "sharpshooter-1.jpg"
+    ],
+    "Sentences": [
+      "Our president has never been a spymaster, a sharpshooter or an undercover agent.",
+      "I like the role of sharpshooter kills all the bad guys in short time in the movie."
+    ]
+  },
+  {
+    "Name": "slay",
+    "Chapter": "4-2",
+    "Srcs": [
+      "slay-4.jpg",
+      "slay-3.jpg",
+      "slay-2.png",
+      "slay-1.png"
+    ],
+    "Sentences": [
+      "He was found slain in an alley two blocks from his apartment.",
+      "Those old movies still slay me!"
+    ]
+  },
+  {
+    "Name": "speculate",
+    "Chapter": "4-2",
+    "Srcs": [
+      "speculate-2.jpg",
+      "speculate-1.jpg"
+    ],
+    "Sentences": [
+      "She speculated about her friend’s motives.",
+      "The doctors speculate that he died of a severe stroke."
+    ]
+  },
+  {
+    "Name": "cabinet",
+    "Chapter": "5-1",
+    "Srcs": [
+      "cabinet-2.png",
+      "cabinet-1.jpg"
+    ],
+    "Sentences": [
+      "Blair has made his cabinet ministers pay for mistakes they have made.",
+      "The cabinet meets tomorrow to discuss this problem."
+    ]
+  },
+  {
+    "Name": "campaign",
+    "Chapter": "5-1",
+    "Srcs": [
+      "campaign-2.png",
+      "campaign-1.png"
+    ],
+    "Sentences": [
+      "The campaign succeeded and he won the election.",
+      "During the election campaign the media only focus on news regarding the campaign."
+    ]
+  },
+  {
+    "Name": "candidate",
+    "Chapter": "5-1",
+    "Srcs": [
+      "candidate-2.jpg",
+      "candidate-1.jpg"
+    ],
+    "Sentences": [
+      "He planned to become a candidate for the upcoming campaign.",
+      "There are three candidates standing in the election."
+    ]
+  },
+  {
+    "Name": "coalition government",
+    "Chapter": "5-1",
+    "Srcs": [
+      "coalition government-2.jpg",
+      "coalition government-1.png"
+    ],
+    "Sentences": [
+      "The Japanese prime minister has to step down after losing the coalition government's non-confidence votes.",
+      "Since June, the country has had a coalition government."
+    ]
+  },
+  {
+    "Name": "corruption",
+    "Chapter": "5-1",
+    "Srcs": [
+      "corruption-2.jpg",
+      "corruption-1.jpg"
+    ],
+    "Sentences": [
+      "The city is riddled with corruption.",
+      "Political corruption is widespread throughout the country."
+    ]
+  },
+  {
+    "Name": "dissolve",
+    "Chapter": "5-1",
+    "Srcs": [
+      "dissolve-4.png",
+      "dissolve-3.jpg",
+      "dissolve-2.jpg",
+      "dissolve-1.jpg"
+    ],
+    "Sentences": [
+      "Parliament has been dissolved.",
+      "Their marriage was dissolved in 1968."
+    ]
+  },
+  {
+    "Name": "election",
+    "Chapter": "5-1",
+    "Srcs": [
+      "election-1.jpg"
+    ],
+    "Sentences": [
+      "Local government elections will take place in May.",
+      "In America, presidential elections are held every four years."
+    ]
+  },
+  {
+    "Name": "impeach",
+    "Chapter": "5-1",
+    "Srcs": [
+      "impeach-2.jpg",
+      "impeach-1.png"
+    ],
+    "Sentences": [
+      "President Nixon has been the only U.S. president to ever be impeached.",
+      "The governor was impeached for using state funds improperly."
+    ]
+  },
+  {
+    "Name": "majority",
+    "Chapter": "5-1",
+    "Srcs": [
+      "majority-2.jpg",
+      "majority-1.jpg"
+    ],
+    "Sentences": [
+      "A large majority of people approve of the death sentence.",
+      "This treatment is not available in the vast majority of hospitals."
+    ]
+  },
+  {
+    "Name": "parliament",
+    "Chapter": "5-1",
+    "Srcs": [
+      "parliament-1.jpg"
+    ],
+    "Sentences": [
+      "He does not have to take a vote of confidence from the newly elected parliament.",
+      "The new system should not come into effect at the dissolution of the present parliament.",
+      ""
+    ]
+  },
+  {
+    "Name": "political analyst",
+    "Chapter": "5-1",
+    "Srcs": [
+      "political analyst-1.png"
+    ],
+    "Sentences": [
+      "Education is now a major political issue.",
+      "Political analysts have mostly the same opinions during the election."
+    ]
+  },
+  {
+    "Name": "primary",
+    "Chapter": "5-1",
+    "Srcs": [
+      "primary-3.jpg",
+      "primary-2.png",
+      "primary-1.jpg"
+    ],
+    "Sentences": [
+      "Before he becomes a candidate for president, he must win presidential primaries in his party.",
+      "Our primary concern is to provide the refugees with food and healthcare."
+    ]
+  },
+  {
+    "Name": "prime minister",
+    "Chapter": "5-1",
+    "Srcs": [
+      "prime minister-2.png",
+      "prime minister-1.png"
+    ],
+    "Sentences": [
+      "The president appoints a prime minister and council of ministers.",
+      "Canada's Prime Minister is the counterpart of the U.S. President."
+    ]
+  },
+  {
+    "Name": "reshuffle",
+    "Chapter": "5-1",
+    "Srcs": [
+      "reshuffle-2.jpg",
+      "reshuffle-1.jpg"
+    ],
+    "Sentences": [
+      "They expect a cabinet reshuffle in the summer.",
+      "The prime minister is expected to reshuffle his ministerial team next month.",
+      ""
+    ]
+  },
+  {
+    "Name": "ruling party",
+    "Chapter": "5-1",
+    "Srcs": [
+      "ruling party-1.jpg"
+    ],
+    "Sentences": [
+      "Are you in the favor of the ruling party?",
+      "At this point, the ruling party was willing to compromise."
+    ]
+  },
+  {
+    "Name": "scandal",
+    "Chapter": "5-1",
+    "Srcs": [
+      "scandal-3.png",
+      "scandal-2.png",
+      "scandal-1.jpg"
+    ],
+    "Sentences": [
+      "The magazine is full of gossip and scandal.",
+      "I’m not interested in scandal about the neighbors."
+    ]
+  },
+  {
+    "Name": "abduct",
+    "Chapter": "5-2",
+    "Srcs": [
+      "abduct-2.png",
+      "abduct-1.png"
+    ],
+    "Sentences": [
+      "The company director was abducted from his car by terrorists.",
+      "He was charged with abduction."
+    ]
+  },
+  {
+    "Name": "aircraft carrier",
+    "Chapter": "5-2",
+    "Srcs": [
+      "aircraft carrier-2.png",
+      "aircraft carrier-1.png"
+    ],
+    "Sentences": [
+      "An aircraft carrier is a warship with a long, flat deck where aircraft can take off and land.",
+      "The missile was launched from the aircraft carrier."
+    ]
+  },
+  {
+    "Name": "arms deal",
+    "Chapter": "5-2",
+    "Srcs": [
+      "arms deal-1.jpeg"
+    ],
+    "Sentences": [
+      "Some governments are the biggest arms dealers.",
+      "He used the internet to conduct arms deals."
+    ]
+  },
+  {
+    "Name": "assassination",
+    "Chapter": "5-2",
+    "Srcs": [
+      "assassination-2.png",
+      "assassination-1.jpg"
+    ],
+    "Sentences": [
+      "The president survived a number of assassination attempts.",
+      "They attempted an assassination of the President.",
+      ""
+    ]
+  },
+  {
+    "Name": "ballistic missile",
+    "Chapter": "5-2",
+    "Srcs": [
+      "ballistic missile-1.png"
+    ],
+    "Sentences": [
+      "People are fearful North Korea would have ballistic missiles.",
+      "They have continued to build far more intercontinental ballistic missiles."
+    ]
+  },
+  {
+    "Name": "concession",
+    "Chapter": "5-2",
+    "Srcs": [
+      "concession-4.jpg",
+      "concession-3.png",
+      "concession-2.jpg",
+      "concession-1.png"
+    ],
+    "Sentences": [
+      "We made too many concessions and we get too little in return.",
+      "The president announced a policy of no concessions to terrorists."
+    ]
+  },
+  {
+    "Name": "constitution",
+    "Chapter": "5-2",
+    "Srcs": [
+      "constitution-3.jpg",
+      "constitution-2.png",
+      "constitution-1.jpg"
+    ],
+    "Sentences": [
+      "Under the union constitution, a new committee must be elected each year.",
+      "The king was forced to adopt a new constitution, which reduced his powers."
+    ]
+  },
+  {
+    "Name": "diplomatic ties",
+    "Chapter": "5-2",
+    "Srcs": [
+      "diplomatic ties-1.jpg"
+    ],
+    "Sentences": [
+      "The two countries established diplomatic ties last year.",
+      "You could try being a little more diplomatic this time."
+    ]
+  },
+  {
+    "Name": "embassy",
+    "Chapter": "5-2",
+    "Srcs": [
+      "embassy-2.png",
+      "embassy-1.jpg"
+    ],
+    "Sentences": [
+      "After graduating with the degree in international diplomacy he looked for work in the U.S. embassy.",
+      "We used to be friendly with some people who worked at the Swedish Embassy."
+    ]
+  },
+  {
+    "Name": "fighter jet",
+    "Chapter": "5-2",
+    "Srcs": [
+      "fighter jet-1.jpg"
+    ],
+    "Sentences": [
+      "He was shot down by enemy fighter jets.",
+      "Fighter jet is a fast military aircraft that is used for destroying other aircraft."
+    ]
+  },
+  {
+    "Name": "foreign aid",
+    "Chapter": "5-2",
+    "Srcs": [
+      "foreign aid-2.jpg",
+      "foreign aid-1.jpg"
+    ],
+    "Sentences": [
+      "Foreign aid from many countries poured into the famine area.",
+      "There still have many countries need foreign aid to improve their financial situations."
+    ]
+  },
+  {
+    "Name": "hijack",
+    "Chapter": "5-2",
+    "Srcs": [
+      "hijack-2.jpg",
+      "hijack-1.jpg"
+    ],
+    "Sentences": [
+      "The plane was hijacked by two armed men on a flight from London to Rome.",
+      "The airliner was hijacked by a group of terrorists."
+    ]
+  },
+  {
+    "Name": "martial law",
+    "Chapter": "5-2",
+    "Srcs": [
+      "martial law-2.png",
+      "martial law-1.png"
+    ],
+    "Sentences": [
+      "The government may declare martial law in response to the latest violence in the region.",
+      "The military leadership has lifted martial law in several more towns."
+    ]
+  },
+  {
+    "Name": "nuclear weapon",
+    "Chapter": "5-2",
+    "Srcs": [
+      "nuclear weapon-2.jpg",
+      "nuclear weapon-1.png"
+    ],
+    "Sentences": [
+      "Hopefully the era of nuclear weapons will come to an end.",
+      "Many countries hold nuclear weapons for ensuring their safeties and showing their powers."
+    ]
+  },
+  {
+    "Name": "raid",
+    "Chapter": "5-2",
+    "Srcs": [
+      "raid-2.png",
+      "raid-1.png"
+    ],
+    "Sentences": [
+      "Police found weapons when they raided his home.",
+      "Millions of dollars were stolen in a bank raid last night."
+    ]
+  },
+  {
+    "Name": "sabotage",
+    "Chapter": "5-2",
+    "Srcs": [
+      "sabotage-2.png",
+      "sabotage-1.png"
+    ],
+    "Sentences": [
+      "The rebels had tried to sabotage the oil pipeline.",
+      "Every single plane had been sabotaged rendering them useless against invading forces."
+    ]
+  },
+  {
+    "Name": "Academy Award (Oscar)",
+    "Chapter": "6-1",
+    "Srcs": [
+      "Academy Award (Oscar)-1.jpg"
+    ],
+    "Sentences": [
+      "The Oscar ceremony takes place in March every year.",
+      "The film won five Oscars."
+    ]
+  },
+  {
+    "Name": "box office",
+    "Chapter": "6-1",
+    "Srcs": [
+      "box office-2.jpg",
+      "box office-1.png",
+      "box office-1.jpg"
+    ],
+    "Sentences": [
+      "The movie has been a huge box-office success.",
+      "The film has taken $180 million at the box office."
+    ]
+  },
+  {
+    "Name": "Cannes International Film Festival",
+    "Chapter": "6-1",
+    "Srcs": [
+      "Cannes International Film Festival-2.jpg",
+      "Cannes International Film Festival-1.jpg"
+    ],
+    "Sentences": [
+      "The Cannes International Film Festival, founded in 1946, is one of the world's oldest and most prestigious film festivals.",
+      "The Cannes Film Festival is held in Cannes, France."
+    ]
+  },
+  {
+    "Name": "comedy",
+    "Chapter": "6-1",
+    "Srcs": [
+      "comedy-2.gif",
+      "comedy-1.gif"
+    ],
+    "Sentences": [
+      "Can't you see the comedy of the situation?",
+      "The film is a romantic comedy."
+    ]
+  },
+  {
+    "Name": "Emmy Award",
+    "Chapter": "6-1",
+    "Srcs": [
+      "Emmy Award-1.jpg"
+    ],
+    "Sentences": [
+      "After thirty years in the business, he finally won an Emmy Award.",
+      "She won this year's Emmy for best screenplay for a mini-series."
+    ]
+  },
+  {
+    "Name": "film-maker",
+    "Chapter": "6-1",
+    "Srcs": [
+      "film-maker-2.png",
+      "film-maker-1.jpg"
+    ],
+    "Sentences": [
+      "He is the kind of film-maker who doesn’t hesitate to over-sentimentalize.",
+      "French film-makers say American remakes of their movies are losing something in the translation."
+    ]
+  },
+  {
+    "Name": "flop",
+    "Chapter": "6-1",
+    "Srcs": [
+      "flop-4.gif",
+      "flop-3.jpg",
+      "flop-2.gif",
+      "flop-1.jpg"
+    ],
+    "Sentences": [
+      "The film flopped badly at the box office.",
+      "The film was a complete flop."
+    ]
+  },
+  {
+    "Name": "Golden Globe Award",
+    "Chapter": "6-1",
+    "Srcs": [
+      "Golden Globe Award-1.jpg"
+    ],
+    "Sentences": [
+      "She is the winner for the Golden Globe Award for Best Supporting Actress.",
+      "Which is more prestigious? The Golden Globe Awards or the Academy Awards?"
+    ]
+  },
+  {
+    "Name": "Grammy Award",
+    "Chapter": "6-1",
+    "Srcs": [
+      "Grammy Award-2.jpg",
+      "Grammy Award-1.jpeg"
+    ],
+    "Sentences": [
+      "She has won five Grammys.",
+      "He was nominated for a Grammy Award five times."
+    ]
+  },
+  {
+    "Name": "hit",
+    "Chapter": "6-1",
+    "Srcs": [
+      "hit-4.gif",
+      "hit-3.jpg",
+      "hit-2.jpg",
+      "hit-1.jpg"
+    ],
+    "Sentences": [
+      "The song became a massive hit in 1945.",
+      "Cape No.7 was the surprise hit film of the year."
+    ]
+  },
+  {
+    "Name": "nominate",
+    "Chapter": "6-1",
+    "Srcs": [
+      "nominate-2.png",
+      "nominate-1.jpg"
+    ],
+    "Sentences": [
+      "She has been nominated as Best Actress for her part in the film “The Devil Wears Prada”.",
+      "Fiona was the first woman to be nominated for the job of Vice President."
+    ]
+  },
+  {
+    "Name": "premiere",
+    "Chapter": "6-1",
+    "Srcs": [
+      "premiere-2.jpg",
+      "premiere-1.png"
+    ],
+    "Sentences": [
+      "The movie will have its premiere in July.",
+      "Bred Pitt is coming to town to attend the premiere of the play."
+    ]
+  },
+  {
+    "Name": "script",
+    "Chapter": "6-1",
+    "Srcs": [
+      "script-6.jpg",
+      "script-5.jpg",
+      "script-4.png",
+      "script-3.png",
+      "script-2.jpg",
+      "script-1.jpg"
+    ],
+    "Sentences": [
+      "He wrote a number of film scripts.",
+      "Jeremy Lin's story is like an inspirational movie script."
+    ]
+  },
+  {
+    "Name": "sequel",
+    "Chapter": "6-1",
+    "Srcs": [
+      "sequel-1.png"
+    ],
+    "Sentences": [
+      "Richard Chamberlain has agreed to make a sequel to “The Thorn Birds”.",
+      "There was an interesting sequel to these events later in the year."
+    ]
+  },
+  {
+    "Name": "tragedy",
+    "Chapter": "6-1",
+    "Srcs": [
+      "tragedy-1.jpg"
+    ],
+    "Sentences": [
+      "Tragedy struck the family when their son was hit by a car and killed.",
+      "The tragedy happened as they were returning home from a night out."
+    ]
+  },
+  {
+    "Name": "Venice Film Festival",
+    "Chapter": "6-1",
+    "Srcs": [
+      "Venice Film Festival-1.jpeg"
+    ],
+    "Sentences": [
+      "We stayed up late to watch the ceremony of the Venice Film Festival.",
+      "The Venice Film Festival is held in September every year."
+    ]
+  },
+  {
+    "Name": "Broadway",
+    "Chapter": "6-2",
+    "Srcs": [
+      "Broadway-2.jpg",
+      "Broadway-1.jpg"
+    ],
+    "Sentences": [
+      "The new show will open on Broadway next month.",
+      "Many cities in north America have a street named Broadway."
+    ]
+  },
+  {
+    "Name": "celebrity",
+    "Chapter": "6-2",
+    "Srcs": [
+      "celebrity-1.jpg"
+    ],
+    "Sentences": [
+      "He's a national celebrity.",
+      "The show invited a number of minor celebrities."
+    ]
+  },
+  {
+    "Name": "debut album",
+    "Chapter": "6-2",
+    "Srcs": [
+      "debut album-1.png"
+    ],
+    "Sentences": [
+      "Their debut album was recorded in 1991.",
+      "The band plans to release their debut album next week."
+    ]
+  },
+  {
+    "Name": "drug rehabilitation center",
+    "Chapter": "6-2",
+    "Srcs": [
+      "drug rehabilitation center-1.png"
+    ],
+    "Sentences": [
+      "It is a rehabilitation center for drug addictions.",
+      "A number of other techniques are now being used by psychologists in the rehabilitation of young offenders."
+    ]
+  },
+  {
+    "Name": "engagement",
+    "Chapter": "6-2",
+    "Srcs": [
+      "engagement-5.jpg",
+      "engagement-4.png",
+      "engagement-3.png",
+      "engagement-2.png",
+      "engagement-2.jpg",
+      "engagement-1.jpg"
+    ],
+    "Sentences": [
+      "Jack and Amy invited friends to their engagement party.",
+      "She has broken off her engagement to Charles."
+    ]
+  },
+  {
+    "Name": "gossip column",
+    "Chapter": "6-2",
+    "Srcs": [
+      "gossip column-1.jpg"
+    ],
+    "Sentences": [
+      "The jet-setting couple made frequent appearances in the gossip columns.",
+      "She writes a weekly gossip column for the Evening Standard."
+    ]
+  },
+  {
+    "Name": "harass",
+    "Chapter": "6-2",
+    "Srcs": [
+      "harass-2.png",
+      "harass-1.jpg"
+    ],
+    "Sentences": [
+      "A number of minority youths have complained of being harassed by the police.",
+      "Stop harassing me!"
+    ]
+  },
+  {
+    "Name": "hit single",
+    "Chapter": "6-2",
+    "Srcs": [
+      "hit single-1.jpg"
+    ],
+    "Sentences": [
+      "Have you heard Michael Jackson's first hit single?",
+      "The band has a hit single in the US."
+    ]
+  },
+  {
+    "Name": "host",
+    "Chapter": "6-2",
+    "Srcs": [
+      "host-3.jpg",
+      "host-2.jpg",
+      "host-1.jpg"
+    ],
+    "Sentences": [
+      "The host for tonight's ceremony is Billy Crystal.",
+      "Our host greeted us at the door."
+    ]
+  },
+  {
+    "Name": "pop sales chart",
+    "Chapter": "6-2",
+    "Srcs": [
+      "pop sales chart-1.png"
+    ],
+    "Sentences": [
+      "Her new single went straight to number one in the pop charts.",
+      "This record has been on top of the pop sales chart for weeks."
+    ]
+  },
+  {
+    "Name": "postpone",
+    "Chapter": "6-2",
+    "Srcs": [
+      "postpone-2.jpg",
+      "postpone-1.jpg"
+    ],
+    "Sentences": [
+      "The match had to be postponed until next week.",
+      "The concert was postponed because of rain."
+    ]
+  },
+  {
+    "Name": "rumor",
+    "Chapter": "6-2",
+    "Srcs": [
+      "rumor-3.jpg",
+      "rumor-2.jpg",
+      "rumor-1.png"
+    ],
+    "Sentences": [
+      "It is rumored that she has committed suicide.",
+      "Rumors are going round about Mr. Mason and his assistant."
+    ]
+  },
+  {
+    "Name": "showbiz",
+    "Chapter": "6-2",
+    "Srcs": [
+      "showbiz-2.jpg",
+      "showbiz-1.jpg"
+    ],
+    "Sentences": [
+      "He started his career in showbiz by singing.",
+      "It is very difficult to get into showbiz."
+    ]
+  },
+  {
+    "Name": "spokesman (spokesperson/spokeswoman)",
+    "Chapter": "6-2",
+    "Srcs": [
+      "spokesman (spokespersonspokeswoman)-3.jpg",
+      "spokesman (spokespersonspokeswoman)-2.jpg",
+      "spokesman (spokespersonspokeswoman)-1.png"
+    ],
+    "Sentences": [
+      "He was the spokesman for the workers on strike.",
+      "A spokeswoman for the government denied the rumors."
+    ]
+  }
+]
