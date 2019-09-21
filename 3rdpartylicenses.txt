@@ -29,16 +29,10 @@ MIT
 @angular/core
 MIT
 
-@angular/forms
-MIT
-
 @angular/platform-browser
 MIT
 
 @angular/router
-MIT
-
-angular-ng-autocomplete
 MIT
 
 bootstrap
