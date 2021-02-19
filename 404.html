@@ -14,33 +14,5 @@
 <link rel="stylesheet" href="styles.56aefa69c5f30f40e09b.css"></head>
 <body>
   <app-root></app-root>
-<script>
-  window.onload=function () {
-    var baseURL="";
-    var a=document.getElementsByTagName('a');
-    for (link in a) {
-        if (isRelative(a[link].href)) {
-            a[link].href=a[link].href;
-       }
-    }
-    a=document.getElementsByTagName('link');
-    for (link in a) {
-        if (isRelative(a[link].href)) {
-            a[link].href=a[link].href;
-       }
-    }
-    a=document.getElementsByTagName('script');
-    for (link in a) {
-        if (isRelative(a[link].src)) {
-            a[link].src=a[link].src;
-       }
-    }
-};
-
-function isRelative(url) {
-    var r = new RegExp('^(?:[a-z]+:)?//', 'i');
-    return r.test(url);
-}
-</script>
 <script type="text/javascript" src="runtime.26209474bfa8dc87a77c.js"></script><script type="text/javascript" src="es2015-polyfills.8324bb31dd8aa5f2460c.js" nomodule></script><script type="text/javascript" src="polyfills.8bbb231b43165d65d357.js"></script><script type="text/javascript" src="scripts.2cfc6e54343a3b9cca69.js"></script><script type="text/javascript" src="main.946d95f1447009c6bb70.js"></script></body>
 </html>
