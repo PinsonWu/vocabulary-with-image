@@ -16,11 +16,23 @@
   <app-root></app-root>
 <script>
   window.onload=function () {
-    var baseURL="..";
+    var baseURL="";
     var a=document.getElementsByTagName('a');
     for (link in a) {
         if (isRelative(a[link].href)) {
-            a[link].href=baseURL+"/"+a[link].href;
+            a[link].href=a[link].href;
+       }
+    }
+    a=document.getElementsByTagName('link');
+    for (link in a) {
+        if (isRelative(a[link].href)) {
+            a[link].href=a[link].href;
+       }
+    }
+    a=document.getElementsByTagName('script');
+    for (link in a) {
+        if (isRelative(a[link].src)) {
+            a[link].src=a[link].src;
        }
     }
 };
